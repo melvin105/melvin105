@@ -69,16 +69,7 @@ I enjoy turning real-world problems into scalable technology and I'm seeking opp
 
 ## 🎓 Academic & Professional Interests
 
-<p>
-  <img src="https://img.shields.io/badge/Software%20Engineering-2563eb?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Frontend%20Development-2563eb?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Full--Stack%20Development-2563eb?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/UI%2FUX%20Engineering-2563eb?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud%20Computing-2563eb?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Analytics%20%26%20Engineering-2563eb?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-2563eb?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Web%20Applications-2563eb?style=for-the-badge"/>
-</p>
+
 
 <br/>
 
@@ -144,6 +135,16 @@ Explore additional projects, experiments, and contributions on my GitHub — alw
 
 <br/>
 
+<p>
+  <img src="https://img.shields.io/badge/Software%20Engineering-2563eb?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Frontend%20Development-2563eb?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Full--Stack%20Development-2563eb?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UI%2FUX%20Engineering-2563eb?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud%20Computing-2563eb?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Analytics%20%26%20Engineering-2563eb?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-2563eb?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Web%20Applications-2563eb?style=for-the-badge"/>
+</p>
 
 ## 🎓 Education
 
