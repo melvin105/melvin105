@@ -2,7 +2,7 @@
 
 # Yawlui Melvin Kwaku
 
-### Computer Engineer · Full-Stack Developer · Data & Analytics
+### Computer Engineer · Software Engineer · Data Enthusiast
 
 <a href="https://www.linkedin.com/in/melvin-kwaku-yawlui">
   <img src="https://img.shields.io/badge/LinkedIn-Melvin%20Kwaku%20Yawlui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -67,12 +67,6 @@ I enjoy turning real-world problems into scalable technology and I'm seeking opp
 
 <br/>
 
-## 🎓 Academic & Professional Interests
-
-
-
-<br/>
-
 ## 📊 GitHub Activity
 
 <p align="center">
@@ -134,6 +128,10 @@ Explore additional projects, experiments, and contributions on my GitHub — alw
 </table>
 
 <br/>
+
+<br/>
+
+## 🎓 Academic & Professional Interests
 
 <p>
   <img src="https://img.shields.io/badge/Software%20Engineering-2563eb?style=for-the-badge"/>
