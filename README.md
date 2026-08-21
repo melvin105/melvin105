@@ -32,7 +32,6 @@ const melvin = {
     role: "Computer Engineering Student @ KNUST",
     focus: ["Full-Stack Development", "UI/UX Engineering", "Data & Analytics", "AI"],
     currentlyBuilding: ["GeoPulse — environmental monitoring platform", "GwaiPro — musician collaboration platform"],
-    funFact: "Turns messy real-world problems into clean, working software"
 };
 ```
 
