@@ -2,7 +2,7 @@
 
 # Yawlui Melvin Kwaku
 
-### · Software Engineer · Data Enthusiast
+### Software Engineer · Data Enthusiast
 
 <a href="https://www.linkedin.com/in/melvin-kwaku-yawlui">
   <img src="https://img.shields.io/badge/LinkedIn-Melvin%20Kwaku%20Yawlui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
