@@ -26,70 +26,6 @@ I'm a **final-year Computer Engineering student at Kwame Nkrumah University of S
 
 I enjoy turning real-world problems into scalable technology and I'm seeking opportunities to contribute to technology-driven teams while continuing to develop expertise across software, data, and computer engineering.
 
-```txt
-const melvin = {
-    location: "Kumasi, Ghana 🇬🇭",
-    role: "Computer Engineering Student @ KNUST",
-    focus: ["Full-Stack Development", "UI/UX Engineering", "Data & Analytics", "AI"],
-    currentlyBuilding: ["GeoPulse — environmental monitoring platform", "GwaiPro — musician collaboration platform"],
-};
-```
-
-- 🎓 Studying **Computer Engineering** at **KNUST**
-- 🌍 Building **GeoPulse** — an AI-powered environmental monitoring platform using satellite & climate data
-- 🎵 Building **GwaiPro** — a platform connecting musicians for collaboration
-- 💻 Focused on **Full-Stack Development** & **UI/UX Engineering**
-- 📊 Growing into **Data Analytics & Engineering**
-- 🚀 Curious about **AI, Cloud Computing, and emerging technologies**
-- 🤝 Open to **graduate opportunities and collaborative technical projects**
-
-<br/>
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌍 GeoPulse
-AI-powered environmental monitoring platform combining Landsat 8/9 satellite imagery and Open-Meteo climate data to track environmental change. Built as a supervised academic research project.
-
-**Stack:** React · TypeScript · Tailwind · APIs · Geospatial Data
-
-</td>
-<td width="50%" valign="top">
-
-### 🎵 GwaiPro
-A collaboration platform designed to connect musicians, streamlining how they discover, plan, and work together on projects.
-
-**Stack:** React · TypeScript · Tailwind · Supabase
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🚗 Quick Start Pro
-A driving school management system built for a real client (Quick Start Driving School, Kumasi), covering scheduling, registrations, and admin operations end-to-end.
-
-**Stack:** React · TypeScript · Tailwind · REST APIs
-
-</td>
-<td width="50%" valign="top">
-
-### 🔗 More on GitHub
-Explore additional projects, experiments, and contributions on my GitHub — always building and iterating.
-
-<a href="https://github.com/melvin105?tab=repositories">
-  <img src="https://img.shields.io/badge/View%20All%20Repos-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 ## 🛠️ Tech Stack
 
 <p>
@@ -162,6 +98,52 @@ Explore additional projects, experiments, and contributions on my GitHub — alw
 </p>
 
 <br/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌍 GeoPulse
+AI-powered environmental monitoring platform combining Landsat 8/9 satellite imagery and Open-Meteo climate data to track environmental change. Built as a supervised academic research project.
+
+**Stack:** React · TypeScript · Tailwind · APIs · Geospatial Data
+
+</td>
+<td width="50%" valign="top">
+
+### 🎵 GwaiPro
+A collaboration platform designed to connect musicians, streamlining how they discover, plan, and work together on projects.
+
+**Stack:** React · TypeScript · Tailwind · Supabase
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚗 Quick Start Pro
+A driving school management system built for a real client (Quick Start Driving School, Kumasi), covering scheduling, registrations, and admin operations end-to-end.
+
+**Stack:** React · TypeScript · Tailwind · REST APIs
+
+</td>
+<td width="50%" valign="top">
+
+### 🔗 More on GitHub
+Explore additional projects, experiments, and contributions on my GitHub — always building and iterating.
+
+<a href="https://github.com/melvin105?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20All%20Repos-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 
 ## 🎓 Education
 
